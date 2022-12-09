@@ -8,9 +8,9 @@ using namespace std;
 
 int main() {
     setlocale(LC_ALL, "rus");
-    int a;
+    int a, b = 0;
     cin >> a;
-    cout << "hello";
+    cout << "hello" << b;
 
     system("pause");
     return 0;
