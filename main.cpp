@@ -12,7 +12,7 @@ int main() {
     cin >> a;
     cout << "hello" << b;
 
-    cout << "aaaaaaaaaaaaaaaaa";
+    cout << "bbbbbbbbbbbbbbbbbb";
 
     system("pause");
     return 0;
