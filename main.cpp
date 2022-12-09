@@ -4,10 +4,11 @@
 
 using namespace std;
 
-//Программа является учебной
+//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 int main() {
     setlocale(LC_ALL, "rus");
+    cout << "hello";
     
     system("pause");
     return 0;
