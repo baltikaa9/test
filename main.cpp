@@ -12,6 +12,8 @@ int main() {
     cin >> a;
     cout << "hello" << b;
 
+    cout << "aaaaaaaaaaaaaaaaa";
+
     system("pause");
     return 0;
 }
