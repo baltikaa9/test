@@ -13,6 +13,7 @@ int main() {
     cout << "hello" << b;
 
     cout << "bbbbbbbbbbbbbbbbbb";
+    cout << "bbbbbbbbbbbbbbbbbb";
 
     system("pause");
     return 0;
